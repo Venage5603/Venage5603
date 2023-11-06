@@ -10,3 +10,7 @@ hi everyone! im Venage5603, and im a starting Game Developer and YouTuber!
 ### Programs i use for Development
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,unreal,visualstudio,dotnet&theme=dark)](https;//skillicons.dev)
+
+### my github stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Venage5603&show_icons=true&theme=tokyonight)
