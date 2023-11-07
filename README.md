@@ -9,7 +9,7 @@ hi everyone! im Venage5603, and im a starting Game Developer and YouTuber!
 
 ### Programs i use for Development
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,unreal,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,unreal,visualstudio&theme=dark)](https://skillicons.dev)
 
 ### Frameworks i use
 [![My Skills](https://skillicons.dev/icons?i=dotnet&theme=dark)](https://skillicons.dev)
