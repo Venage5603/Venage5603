@@ -5,7 +5,7 @@
 hi everyone! im Venage5603, and im a starting Game Developer and YouTuber!
 ### most used Programing Languages
 
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,c,md&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,md&theme=dark)](https://skillicons.dev)
 
 ### Programs i use for Development
 
@@ -16,4 +16,4 @@ hi everyone! im Venage5603, and im a starting Game Developer and YouTuber!
 
 ### my github stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Venage5603&show_icons=true&theme=tokyonight)
+![Venage5603's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Venage5603&show_icons=true&theme=tokyonight)
