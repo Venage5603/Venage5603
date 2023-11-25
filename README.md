@@ -15,7 +15,7 @@ hi everyone! im Venage5603, and im a starting Game Developer and YouTuber!
 [![My Skills](https://skillicons.dev/icons?i=dotnet&theme=dark)](https://skillicons.dev)
 
 ### Platforms I use
-[![My Skills](https://skillicons.dev/icons?i=discord,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,github,twitter&theme=dark)](https://skillicons.dev)
 
 ### my github stats
 
