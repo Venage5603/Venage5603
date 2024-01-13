@@ -5,7 +5,7 @@
 hi everyone! im Venage5603, and im a starting Game Developer and YouTuber!
 ### most used Programing Languages
 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,md&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,md,java&theme=dark)](https://skillicons.dev)
 
 ### Programs/Tools I use for Development
 
