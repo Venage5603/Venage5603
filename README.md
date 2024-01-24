@@ -3,7 +3,7 @@
 ![pfp_Halloween](https://github.com/Venage5603/Venage5603/assets/116987090/8a99c1e8-d85c-4963-84f3-87ec04dc62df)
 
 hi everyone! im Venage5603, and im a starting Game Developer and YouTuber!
-### most used Programing Languages
+<h3> Most used Programing Languages</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -11,7 +11,7 @@ hi everyone! im Venage5603, and im a starting Game Developer and YouTuber!
   </a>
 </p>
 
-### Programs/Tools I use for Development
+<h3> Programs/Tools I use for Development</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -19,7 +19,7 @@ hi everyone! im Venage5603, and im a starting Game Developer and YouTuber!
   </a>
 </p>
 
-### Frameworks I use
+<h3> Frameworks I use</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -27,7 +27,7 @@ hi everyone! im Venage5603, and im a starting Game Developer and YouTuber!
   </a>
 </p>
 
-### Platforms I use
+<h3> Platforms I use</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -35,7 +35,7 @@ hi everyone! im Venage5603, and im a starting Game Developer and YouTuber!
   </a>
 </p>
 
-### My GitHub stats
+<h3> My GitHub Stats</h3>
 
 ![Venage5603's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Venage5603&show_icons=true&theme=tokyonight)
 ![Venage5603's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Venage5603&theme=tokyonight)
