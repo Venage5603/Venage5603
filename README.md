@@ -5,17 +5,35 @@
 hi everyone! im Venage5603, and im a starting Game Developer and YouTuber!
 ### most used Programing Languages
 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,md&theme=dark)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,md" />
+  </a>
+</p>
 
 ### Programs/Tools I use for Development
 
-[![My Skills](https://skillicons.dev/icons?i=git,unreal,visualstudio&theme=dark)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,unreal,visualstudio" />
+  </a>
+</p>
 
 ### Frameworks I use
-[![My Skills](https://skillicons.dev/icons?i=dotnet&theme=dark)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet" />
+  </a>
+</p>
 
 ### Platforms I use
-[![My Skills](https://skillicons.dev/icons?i=discord,github,twitter&theme=dark)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord,github,twitter" />
+  </a>
+</p>
 
 ### My GitHub stats
 
