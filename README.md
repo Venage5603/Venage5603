@@ -1,7 +1,5 @@
 <h2 align="center">Venage5603</h2>
 
-<div align="center"></div>
-
 hi everyone! im Venage5603, and im a starting Game Developer and YouTuber!
 <h3> Most used Programing Languages</h3>
 
