@@ -35,5 +35,5 @@
 
 <h3> My GitHub Stats</h3>
 
-![Venage5603's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Venage5603&show_icons=true&theme=tokyonight)
-![Venage5603's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Venage5603&theme=tokyonight)
+![Venage5603's GitHub Stats](https://my-readme-stats-pearl.vercel.app/api?username=Venage5603&show_icons=true&theme=tokyonight)
+![Venage5603's Github Stats](https://my-readme-stats-pearl.vercel.app/api/top-langs/?username=Venage5603&theme=tokyonight)
