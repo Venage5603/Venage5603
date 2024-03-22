@@ -33,6 +33,8 @@
   </a>
 </p>
 
+### I use [Zorin OS](https://zorin.com/os) btw
+
 <h3>My GitHub Stats</h3>
 
 ![Venage5603's GitHub Stats](https://my-readme-stats-one.vercel.app/api?username=Venage5603&show_icons=true&theme=gotham)
