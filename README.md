@@ -17,11 +17,19 @@
   </a>
 </p>
 
+<h3>Runtime Enviornments I Use</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
+</p>
+
 <h3>Frameworks I use</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet" />
+    <img src="https://skillicons.dev/icons?i=dotnet,yarn" />
   </a>
 </p>
 
@@ -29,7 +37,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,github,twitter" />
+    <img src="https://skillicons.dev/icons?i=discord,github,twitter,windows" />
   </a>
 </p>
 
