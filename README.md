@@ -18,7 +18,7 @@
   </a>
 </p>
 
-<h3>Runtime Enviornments I Use</h3>
+<h3>Runtime Enviornments I use</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
