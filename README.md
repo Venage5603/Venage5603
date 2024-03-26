@@ -1,6 +1,7 @@
 <h2 align="center">Venage5603</h2>
 
 <h3 align="center">hi everyone! im Venage5603, and im a starting Game Developer and YouTuber!</h3>
+<h3 align="center">im also a VScode Theme Developer ig lol</h3>
 <h3>Languages I use</h3>
 
 <p align="center">
@@ -13,7 +14,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,unreal,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,unreal,vscode,cmake" />
   </a>
 </p>
 
