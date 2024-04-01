@@ -18,8 +18,6 @@
   </a>
 </p>
 
-(vscode is only used for packaging my vscode extension, visual studio is mainly used for everything else)
-
 <h3>Runtime Enviornments I use</h3>
 
 <p align="center">
