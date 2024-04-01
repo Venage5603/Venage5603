@@ -14,9 +14,11 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,unreal,vscode,cmake" />
+    <img src="https://skillicons.dev/icons?i=git,unreal,vscode,visualstudio,cmake" />
   </a>
 </p>
+
+(vscode is only used for packaging my vscode extension, visual studio is mainly used for everything else)
 
 <h3>Runtime Enviornments I use</h3>
 
