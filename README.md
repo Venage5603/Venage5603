@@ -34,7 +34,7 @@
   </a>
 </p>
 
-i use ![Zorin OS](https://zorin.com/os)
+i use [Zorin OS](https://zorin.com/os)
 
 <h3>My GitHub Stats</h3>
 
