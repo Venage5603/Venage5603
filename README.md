@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,md,html" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,md,html,css" />
   </a>
 </p>
 
@@ -30,9 +30,11 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,github,twitter,windows" />
+    <img src="https://skillicons.dev/icons?i=discord,github,twitter,linux" />
   </a>
 </p>
+
+i use ![Zorin OS](https://zorin.com/os)
 
 <h3>My GitHub Stats</h3>
 
