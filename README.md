@@ -30,11 +30,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,github,twitter,linux" />
+    <img src="https://skillicons.dev/icons?i=discord,github,twitter,windows" />
   </a>
 </p>
-
-i use [Zorin OS](https://zorin.com/os)
 
 <h3>My GitHub Stats</h3>
 
