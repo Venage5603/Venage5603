@@ -34,7 +34,7 @@
   </a>
 </p>
 
-I use [Zorin OS](https://zorin.com)
+I use [Fedora](https://fedoraproject.org)
 
 <h3>My GitHub Stats</h3>
 
