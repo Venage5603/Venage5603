@@ -30,9 +30,11 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,github,twitter,windows" />
+    <img src="https://skillicons.dev/icons?i=discord,github,twitter,linux" />
   </a>
 </p>
+
+i use [Fedora KDE Plasma](https://fedoraproject.org/spins/kde)
 
 <h3>My GitHub Stats</h3>
 
