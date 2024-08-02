@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,unreal,vscode,cmake,nodejs,npm,githubactions" />
+    <img src="https://skillicons.dev/icons?i=git,godot,vscodium,cmake,nodejs,npm,githubactions" />
   </a>
 </p>
 
@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,yarn" />
+    <img src="https://skillicons.dev/icons?i=yarn" />
   </a>
 </p>
 
