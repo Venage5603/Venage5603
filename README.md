@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,godot,vscode,cmake,nodejs,npm,githubactions,blender" />
+    <img src="https://skillicons.dev/icons?i=git,godot,cmake,nodejs,npm,githubactions,blender" />
   </a>
 </p>
 
