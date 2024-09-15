@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,md,html,css" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,md,html,css,python" />
   </a>
 </p>
 
@@ -14,15 +14,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,godot,cmake,nodejs,npm,githubactions,blender" />
-  </a>
-</p>
-
-<h3>Frameworks I use</h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=yarn" />
+    <img src="https://skillicons.dev/icons?i=git,godot,cmake,blender" />
   </a>
 </p>
 
