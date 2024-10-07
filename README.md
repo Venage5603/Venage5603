@@ -14,17 +14,11 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,unity,vscode,blender,nodejs,npm" />
+    <img src="https://skillicons.dev/icons?i=git,godot,vscode,blender,nodejs,npm" />
   </a>
 </p>
 
 <h3>Frameworks I use</h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet" />
-  </a>
-</p>
 
 <h3>Platforms I use</h3>
 
