@@ -1,7 +1,5 @@
-<h2 align="center">Venage5603</h2>
+<h1 align="center">Venage5603's Github Profile</h1>
 
-<h3 align="center">hi everyone! im Venage5603, and im a starting Game Developer and YouTuber!</h3>
-<h3 align="center">im also a VScode Theme Developer ig lol</h3>
 <h3>Languages</h3>
 
 <p align="center">
