@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,unity,vscode,blender,nodejs,npm" />
+    <img src="https://skillicons.dev/icons?i=git,unity,vscode,visualstudio,blender,nodejs,npm" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,github,arch" />
+    <img src="https://skillicons.dev/icons?i=discord,github,windows" />
   </a>
 </p>
 
