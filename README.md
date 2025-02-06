@@ -42,5 +42,5 @@
 
 <h3>GitHub Stats</h3>
 
-![Venage5603's GitHub Stats](https://my-readme-stats-one.vercel.app/api?username=Venage5603&show_icons=true&theme=gotham)
-![Venage5603's Github Stats](https://my-readme-stats-one.vercel.app/api/top-langs/?username=Venage5603&layout=compact&theme=gotham)
+![Venage5603's GitHub Stats](https://my-readme-stats-one.vercel.app/api?username=Venage5603&show_icons=true&theme=rose_pine)
+![Venage5603's Github Stats](https://my-readme-stats-one.vercel.app/api/top-langs/?username=Venage5603&layout=compact&theme=rose_pine)
