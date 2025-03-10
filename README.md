@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,md,html,css" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,md,html,css,python" />
   </a>
 </p>
 
@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,unity,vscode,blender,nodejs,npm,yarn,powershell,githubactions,cmake" />
+    <img src="https://skillicons.dev/icons?i=git,godot,vscode,blender,nodejs,npm,yarn,powershell,githubactions,cmake" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,github,arch" />
+    <img src="https://skillicons.dev/icons?i=discord,github,windows" />
   </a>
 </p>
 
