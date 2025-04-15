@@ -7,7 +7,7 @@
 I'm a passionate developer with interests in game development, software engineering, and creative coding. I enjoy building interactive experiences and solving complex problems through code.
 
 - 🔭 **Currently working on:** Abandoned VR
-- 🌱 **Learning:** Unity, Blender, HTML/CSS, C# and C++
+- 🌱 **Learning:** Godot, Blender, HTML/CSS, JavaScript, GDScript, C# and C++
 - 💬 **Ask me about:** HTML, Game Development, .NET, or anything tech-related!
 - 🎮 **Hobbies:** Video Games, Game Design, Programming, etc.
 
@@ -46,7 +46,7 @@ I'm a passionate developer with interests in game development, software engineer
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,md,html,css" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,md,html,css,js,python" />
   </a>
 </p>
 
@@ -54,7 +54,7 @@ I'm a passionate developer with interests in game development, software engineer
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,unity,vscode,blender,nodejs,npm,yarn,powershell,githubactions" />
+    <img src="https://skillicons.dev/icons?i=git,godot,vscode,blender,nodejs,npm,yarn,powershell,githubactions" />
   </a>
 </p>
 
