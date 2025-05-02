@@ -54,7 +54,7 @@ I'm a passionate developer with interests in game development, software engineer
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,godot,rider,blender,nodejs,npm,yarn,powershell,githubactions" />
+    <img src="https://skillicons.dev/icons?i=git,godot,rider,webstorm,blender,nodejs,npm,yarn,powershell,githubactions" />
   </a>
 </p>
 
