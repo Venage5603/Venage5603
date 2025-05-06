@@ -70,7 +70,7 @@ I'm a passionate developer with interests in game development, software engineer
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,discord,github,linux" />
+    <img src="https://skillicons.dev/icons?i=dotnet,discord,github,arch" />
   </a>
 </p>
 
